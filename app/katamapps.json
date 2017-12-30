@@ -9,13 +9,13 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ayyappaswamylivewallpaper",
 		"app_icon": "https://lh3.googleusercontent.com/KD7bCGUgMQnOIPuEGBGpzHmTZv9345toaFzvQgIuGHSFju49KI3gXHNvZJkE2dctZZE=w300-rw"
     },{
-        "app_name": "Telugu News Paper",
-		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.telugunewspaper",
-		"app_icon": "https://lh3.googleusercontent.com/04ryuEfkIhq_NL7FimPwNIxwAzCeG_amm67YSnyVyEmAxiDpFC7BlCOSz0JxzO4WxQ=w300-rw"
-    },{
         "app_name": "Flash on Call",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashoncall",
 		"app_icon": "https://lh3.googleusercontent.com/tUod7o6t00IE_Ugg6BDC1T_QznENdp1olf_Y4s-qdaDxPrqRnV39Pc_MNnuaeNOPFbXu=w300-rw"
+    },{
+        "app_name": "Telugu News Paper",
+		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.telugunewspaper",
+		"app_icon": "https://lh3.googleusercontent.com/04ryuEfkIhq_NL7FimPwNIxwAzCeG_amm67YSnyVyEmAxiDpFC7BlCOSz0JxzO4WxQ=w300-rw"
     }
 	
 ]
